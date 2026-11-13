@@ -1,34 +1,35 @@
-# Personal Portfolio Website
+# Hi, I'm Urja Chauhan 👋
 
-Welcome to my personal portfolio!
+🎓 B.Tech Computer Science Engineering Student  
+📊 Aspiring Data Analyst | Interested in Data Science
 
-I am a Computer Science Engineering student and aspiring Data Analyst interested in transforming data into meaningful insights through analytics and visualization.
+## About Me
+- Passionate about Data Analytics and solving real-world problems using data.
+- Building practical projects using Python, SQL, Power BI, and Excel.
+- Continuously learning and improving my technical and analytical skills.
+- Interested in exploring opportunities in Data Analytics.
 
-## About the Project
-
-This portfolio website showcases my technical skills, data analytics projects, and professional journey.
-
-## Technologies Used
-
-- HTML
-- CSS
-- JavaScript
+## Technical Skills
+- **Programming:** Python, Java, SQL
+- **Data Analytics:** Data Cleaning, Data Analysis, Data Visualization
+- **Tools:** Power BI, Microsoft Excel, Jupyter Notebook
+- **Web Technologies:** HTML, CSS, JavaScript
 
 ## Featured Projects
+- **NetForensics AI** – AI-powered network troubleshooting chatbot.
+- **GreenCampus AI** – Campus sustainability monitoring project.
+- **Global Superstore Dashboard** – Sales analysis and interactive dashboard.
+- **Retail Sales Analysis** – SQL-based analysis and Power BI visualization.
 
-1. **NetForensics AI** – AI-powered network troubleshooting chatbot.
-2. **GreenCampus AI** – AI-powered campus sustainability monitoring project.
-3. **Global Superstore Sales Analysis** – Sales analysis using Python and Power BI.
-4. **Retail Sales Analysis** – Retail data analysis using SQL and Power BI.
+## Certifications & Learning
+- Cisco Networking Academy – Data Analytics Essentials
+- Cisco AI Learning Path
+- Coursera – What is Data Science?
 
-## Website
-
-[Visit My Portfolio](https://explorer239.github.io/urja-portfolio/)
-
-## GitHub
-
-[Explore My GitHub Projects](https://github.com/Explorer239)
+## Portfolio & Connect
+- 🌐 [My Portfolio](https://explorer239.github.io/urja-portfolio/)
+- 💻 [GitHub](https://github.com/Explorer239)
+- 💼 [LinkedIn](https://www.linkedin.com/in/urja-chauhan-2841ba428?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 
 ---
-
-Created by Urja Chauhan.
+*Always learning, building, and growing!* 🚀
